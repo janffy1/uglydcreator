@@ -4,17 +4,17 @@ A professional portfolio website for a mobile content creator based in Lagos, Ni
 
 ## Services
 
-- Weddings
-- Birth Shoots
-- Event Coverage
-- Creative Shoots
-- Lifestyle Content
-- Social Media Reels
-- Professional Videography
+- 💍 Weddings
+- 🎂 Birthday Shoots
+- 🎉 Event Coverage
+- 🎬 Creative Shoots
+- 🌿 Lifestyle Content
+- 📱 Social Media Reels
+- 🎥 Professional Videography
 
 ## About
 
-UGLYDCREATOR specializes in crafting luxury cinematic content that captures life's most memorable moments. From weddings and birth shoots to events, lifestyle content, and creative productions, every project is designed with creativity, professionalism, and attention to detail.
+UGLYDCREATOR specializes in crafting luxury cinematic content that captures life's most memorable moments. From weddings and birthday celebrations to events, lifestyle content, creative productions, and professional videography, every project is delivered with creativity, professionalism, and attention to detail.
 
 ## Contact
 
@@ -29,3 +29,5 @@ UGLYDCREATOR specializes in crafting luxury cinematic content that captures life
 ---
 
 Created using HTML, CSS, and JavaScript.
+
+© 2026 UGLYDCREATOR. All Rights Reserved.
