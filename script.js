@@ -1,4 +1,1 @@
-// UGLYDCREATOR Portfolio Website
-
-console.log("UGLYDCREATOR Portfolio Loaded Successfully!");
-             
+console.log("Welcome to UGLYDCREATOR Portfolio!");
